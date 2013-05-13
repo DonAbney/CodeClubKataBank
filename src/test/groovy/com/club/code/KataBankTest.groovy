@@ -1,5 +1,3 @@
-package com.club.code
-
 import groovy.util.GroovyTestCase;
 
 class KataBankTest extends GroovyTestCase {
