@@ -1,4 +1,7 @@
+package com.club.code
+
 import groovy.util.GroovyTestCase;
+import spock.lang.Specification
 
 class KataBankTest extends GroovyTestCase {
 
