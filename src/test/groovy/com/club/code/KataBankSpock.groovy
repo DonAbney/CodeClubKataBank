@@ -8,8 +8,8 @@ class KataBankSpock extends Specification {
 	def setup() {
 		kataBank = new KataBank()
 		validRawAccountNumber = ["    _  _     _  _  _  _  _ ",
-								 "  | _| _||_||_ |_   ||_||_|",
-							     "  ||_  _|  | _||_|  ||_| _|",
+					 "  | _| _||_||_ |_   ||_||_|",
+	       			     "  ||_  _|  | _||_|  ||_| _|",
 							     "                           "]
 	}
 	
